@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilaksh</h1>
 <h3 align="center">Software development Enthusiast | Web Developer</h3>
 
-- 🔭 I’m currently working on **A jewelry store system**
+- 🔭 I’m currently working on **A 2048 game**
 
 - 👯 I’m looking to collaborate on **Some projects with the wish to learn and grow together**
 
